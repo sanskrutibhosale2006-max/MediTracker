@@ -1,5 +1,0 @@
-id,name,stock,expiry,status
-2,crocin,50,2026-10-06,🟢 OK
-3,paracetamol2,10,2026-02-10,🔴 EXPIRED
-4,crocin2,100,2026-05-11,🔴 EXPIRED
-6,dolo,50,2026-05-12,🟡 Expiring Soon
